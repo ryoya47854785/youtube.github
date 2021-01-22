@@ -1,0 +1,4 @@
+#外部ライブラリーを記載するテキスト
+#pip freeze| grep strea
+streamlit==0.74.1
+
